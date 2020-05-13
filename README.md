@@ -18,7 +18,7 @@
     - create masternode
     - disable masternode
 - Poseidon connector
-    - view all payment status per node
+    - view all payments status per node
 - Remote server monitoring dashboard
 - base framework build for the Pirl ecosystem
 
