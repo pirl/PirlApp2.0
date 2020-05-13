@@ -24,4 +24,4 @@
 
 #### PirlApp 2.0 Monitoring Agent
 - [PirlApp2.0 Monitoring Agent Repo](https://github.com/pirl/PirlApp-Monitoring-Agent) 
-- PirlApp2.0 Monitoring Agent Install tutorial](https://pirl.zendesk.com/hc/en-us/articles/360008690098-Install-PirlApp-Monitoring-Agent-on-Linux-Server)  
+- [PirlApp2.0 Monitoring Agent Install tutorial](https://pirl.zendesk.com/hc/en-us/articles/360008690098-Install-PirlApp-Monitoring-Agent-on-Linux-Server)  
